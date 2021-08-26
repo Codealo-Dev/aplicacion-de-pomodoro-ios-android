@@ -1,6 +1,6 @@
-# [Proyect Name]
+# Aplicación de Pomodoro
 
-[Enlace al proyecto](https://codealo.dev)
+[Enlace al proyecto](https://codealo.dev/proyectos/aplicacion-de-pomodoro-ios-android)
 
 Puedes elegir las siguientes maneras de hacer esta aplicación móvil.
 
